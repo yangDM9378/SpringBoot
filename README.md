@@ -1,7 +1,7 @@
 # SpringBoot
 유튜브 강의를 통해 SpringBoot를 공부해보자
 강의 명 : 홍팍의 스프링부트, 입문\
-강의 주소 : https://www.youtube.com/watch?v=_vDACE13Ubc&list=PLyebPLlVYXCiYdYaWRKgCqvnCFrLEANXt\
+강의 주소 : https://www.youtube.com/watch?v=_vDACE13Ubc&list=PLyebPLlVYXCiYdYaWRKgCqvnCFrLEANXt \
 notion : https://distinct-harpymimus-c03.notion.site/Spring-boot-09ddae3a5032492491ed06e83e4e48aa
 
 ## 진행내용
