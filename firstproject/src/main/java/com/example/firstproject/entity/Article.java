@@ -5,10 +5,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
 @AllArgsConstructor
@@ -17,7 +14,7 @@ import javax.persistence.Id;
 @Getter
 public class Article {
     @Id
-    @GeneratedValue //,
+    @GeneratedValue(strategy = GenerationType.IDENTITY) // DB가 id를 자동 생성 이노테이션
     private Long id;//12345678 자동생성
     @Column
     private String title;
