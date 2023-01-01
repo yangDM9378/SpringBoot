@@ -10,7 +10,7 @@ notion : https://distinct-harpymimus-c03.notion.site/Spring-boot-09ddae3a5032492
 |12/27|:white_check_mark:|시작하기|01~03|https://github.com/yangDM9378/SpringBoot/tree/main/firstproject|
 |12/27|:white_check_mark:|모델, 뷰, 컨트롤러|04~06|https://github.com/yangDM9378/SpringBoot/tree/main/firstproject|
 |12/29|:white_check_mark:|게시글 CR|07~13|https://github.com/yangDM9378/SpringBoot/tree/main/firstproject|
-|00/00|:white_large_square:|게이글 UD|00~00||
-|00/00|:white_large_square:|REST API와 테스트|00~00||
+|12/30|:white_check_mark:|게이글 UD|14~17|https://github.com/yangDM9378/SpringBoot/tree/main/firstproject|
+|01/01|:white_check_mark:|REST API와 테스트|18~21|https://github.com/yangDM9378/SpringBoot/tree/main/firstproject|
 |00/00|:white_large_square:|댓글 CRUD|00~00||
 |00/00|:white_large_square:|더 나아가기|00~00||
