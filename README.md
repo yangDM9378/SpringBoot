@@ -16,4 +16,5 @@ notion : https://distinct-harpymimus-c03.notion.site/Spring-boot-09ddae3a5032492
 |01/25|:white_check_mark:|댓글 CRUD_댓글 목록 뷰만들기|24|https://github.com/yangDM9378/SpringBoot/tree/main/firstproject|
 |01/25|:white_check_mark:|댓글 CRUD_댓글 등록 with JS|25|https://github.com/yangDM9378/SpringBoot/tree/main/firstproject|
 |01/28|:white_check_mark:|댓글 CRUD_댓글 수정 with JS|26|https://github.com/yangDM9378/SpringBoot/tree/main/firstproject|
+|01/29|:white_check_mark:|댓글 CRUD_댓글 삭제 with JS|26|https://github.com/yangDM9378/SpringBoot/tree/main/firstproject|
 |00/00|:white_large_square:|더 나아가기|00~00||
